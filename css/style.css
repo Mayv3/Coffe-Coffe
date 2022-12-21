@@ -620,6 +620,7 @@ background-color: yellow;
       .section-3 p{
         text-align: start;
         font-size: 20px;
+        width: 550px;
       }
       .section-3 .container-3 img{
         width: 400px;
@@ -630,7 +631,7 @@ background-color: yellow;
         gap: 30px;
         text-align: center;
         align-items: center;
-        padding: 10px;
+        padding: 0px;
       }
       .section-3 .container-4 {
         display: flex;
@@ -641,7 +642,7 @@ background-color: yellow;
         padding: 10px;
       }
       .section-3 .container-4 .img img{
-        width: 300px;
+        width: 400px;
       }
       .section-4{
         justify-content: center;
@@ -727,5 +728,9 @@ background-color: yellow;
       height: 130px;
       font-size: 25px;
     }
+    .section-3 p{
+      width: 900px;
+    }
+    
    }
 
